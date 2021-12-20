@@ -59,7 +59,7 @@ A student who successfully completes this course should demonstrate the followin
 | Week 2                         | Project  Management Meeting. | Managerial  aspects of the project.   ·    Team member roles  ·    Tentative planning for Sprint 1.  ·    Trello Project set up |
 | Week 3                         | Threat Model  Design         | Threat Model  Analysis  ·    Threat Modeling Tool (STRIDE)  ·    Attack Trees  ·    Cyber Kill Chain |
 | Week 4                         | Project Plan Proposal        | PPP presentation  ·    Sprints  ·    Expected product        |
-| Individual Team Projects Start |                              |                                                              |
+|  |                              |                               Individual Team Projects Start                        |
 | Week 5                         | *Sprint 1*                   |                                                              |
 | Week 5.5                       | Mid-week  SCRUM              | 15-min  scrum with each team .                               |
 | Week 6                         | *Sprint 1 Follow up*         |                                                              |
