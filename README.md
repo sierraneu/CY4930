@@ -2,8 +2,8 @@
 
 ## Cybersecurity Capstone
 
-### Course Number**:     CY4930
-### Total Credit Hours**:   4
+#### Course Number**:     CY4930
+#### Total Credit Hours:   4
 
 
 
