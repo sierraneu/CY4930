@@ -58,7 +58,7 @@ A student who successfully completes this course should demonstrate the followin
 | Week 8.5                       | Mid-week  SCRUM              | 15-min  scrum with each team.                                |
 | Week 9                         | *Sprint 2 Follow up*         |                                                              |
 | Week 9.5                       | Mid-week  SCRUM              | 15-min  scrum with each team.                                |
-| Week 10 (Milestone 2)          | *Sprint 2 ends*              | <ul><li>MVP Sprint 2 (increment of  Done product)</li><li>Sprint 2 retrospect</li>  <li> Final Sprint planning </li></ul> |
+| Week 10          | *Sprint 2 ends*              | <ul><li>MVP Sprint 2 (increment of  Done product)</li><li>Sprint 2 retrospect</li>  <li> Final Sprint planning </li></ul> |
 | Week 10.5                      | Mid-week  SCRUM              | 15-min  scrum with each team .                               |
 | Week 11                        | *Final Spring*     |                                                              |
 | Week 11.5                      | Mid-week  SCRUM              | 15-min  scrum with each team                                 |
@@ -84,28 +84,28 @@ A student who successfully completes this course should demonstrate the followin
 | Objective| Weight| 
 | ------ | --------|
 | Agile methodology Open test (>85%)  |           5% |
-| Class/Meetings attendance and participation  |     5% |
-| Incremental Sprints     |                   40% |
-| (30% team and 10% individual) |              |
-| + Product Release   |                        30% |
-| Capstone Event Presentation    |   20% | 
-| + 10% team and 10% individual |    |
+| Class/Meetings attendance and participation  |     20% |
+| Project completion success     |                   40% |
+| + (30% team and 10% individual) |              |
+| Cross team Security TestEvaluation   |          25% |
+| + (15% team and 10% individual |    |
+| Final project completion document | 5%|
+| Final security Test Evaluation document | 5% |
 
 
 
 **Tools**
 
-Students must create a free account on Trello (https://trello.com) to manage the project (if approved by the Industry Partner). Trello can be integrated with Slack which can be used for conveniently communicate with team members.
+Students must create a free account on Trello (https://trello.com) to manage the project. Trello can be integrated with MS Teams
 
-**Blackboard**
-
-The Blackboard site for this course will be used to post course content. It is strongly recommended that students change the assigned email address on the site to their preferred address. Students should review the announcements and discussion board regularly.
 
 **Plagiarism and Academic Integrity**
 
 Students are expected to maintain complete honesty in all academic work. Unless otherwise specified, all work must be completed independently. The University Academic Integrity Policy is available on-line at:
 
 http://www.northeastern.edu/osccr/academic-integrity-policy/
+
+All documents produced by the project will be submitted and uploaded into Canvas, so an authomatic plagiarism check will be done.
 
 **Special Accommodations**
 
