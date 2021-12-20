@@ -54,7 +54,8 @@ A student who successfully completes this course should demonstrate the followin
 
  
 
-| Week 1                         | Complete SCRUM  Training     | Reading: https://www.scrum.org/resources/scrum-guide  Students need  to pass (>85%) an Agile Methodology Open Test  `https://www.scrum.org/open-assessments/scrum-open    ` |
+| Week 1                         | Complete SCRUM  Training     | + Reading: https://www.scrum.org/resources/scrum-guide  
++ Students need  to pass (>85%) an Agile Methodology Open Test  `https://www.scrum.org/open-assessments/scrum-open    ` |
 | ------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | Week 2                         | Project  Management Meeting. | Managerial  aspects of the project.   ·    Team member roles  ·    Tentative planning for Sprint 1.  ·    Trello Project set up |
 | Week 3                         | Threat Model  Design         | Threat Model  Analysis  ·    Threat Modeling Tool (STRIDE)  ·    Attack Trees  ·    Cyber Kill Chain |
@@ -97,7 +98,7 @@ A student who successfully completes this course should demonstrate the followin
 | Agile methodology Open test (>85%)  |           5% |
 | Class/Meetings attendance and participation  |     5% |
 | Incremental Sprints     |                   40% |
- (30% team and 10% individual) | |
+| (30% team and 10% individual) | |
 | + Product Release   |                        30%. |
 | Capstone Event Participation / Presentation    |   20% | 
 | + 10% team and 10% individual |  |
