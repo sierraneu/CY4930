@@ -27,11 +27,9 @@ A student who successfully completes this course should demonstrate the followin
 
 \-    An understanding of Agile methodology
 
-\-    An ability to evaluate the business process needs for information assurance needs and a program to meet those needs.
+\-    An ability to evaluate the cybersecurity project needs and a program to meet those needs.
 
-\-    The ability to develop a business case for an information assurance initiative.
-
-\-    An understanding of how to create and manage a cybersecurity program from inception to management approval.
+\-    An understanding of how to create and manage a cybersecurity project from inception to management approval and security evaluation.
 
 \-    An understanding of the principles of effective executive communications.
 
@@ -45,28 +43,28 @@ A student who successfully completes this course should demonstrate the followin
 
 | Week Number | Content | Details | 
 | ------------------------------ | ---------------------------- | ------------------------------------------------------- |
-| Week 1                         | Complete SCRUM  Training     | <ul> <li>[Reading:](https://www.scrum.org/resources/scrum-guide)</li> <li> Students need  to pass (>85%) an [Agile Methodology Open Test](https://www.scrum.org/open-assessments/scrum-open)</li></ul> |
+| Week 1                         | Complete SCRUM  Training     | <ul> <li>[Reading: https://www.scrum.org/resources/scrum-guide](https://www.scrum.org/resources/scrum-guide)</li> <li> Students need  to pass (>85%) an [Agile Methodology Open Test](https://www.scrum.org/open-assessments/scrum-open)</li></ul> |
 | Week 2                         | Project  Management Meeting. | <ul><li>Managerial  aspects of the project </li> <li>Team member roles </li> <li>Tentative planning for Sprint 1.</li> <li>Trello Project set up</li></ul>  |
-| Week 3                         | Threat Model  Design         | Threat Model  Analysis  ·    Threat Modeling Tool (STRIDE)  ·    Attack Trees  ·    Cyber Kill Chain |
-| Week 4                         | Project Plan Proposal        | PPP presentation  ·    Sprints  ·    Expected product        |
-|  |                              |                               Individual Team Projects Start                        |
-| Week 5                         | *Sprint 1*                   |                                                              |
+| Week 3                         | Threat Model  Design         | <ul><li>Threat Model  Analysis</li> <li> Threat Modeling Tool (STRIDE) </li> <li> Attack Trees </li> <li>  Cyber Kill Chain </li></ul>|
+| Week 4                         | Project Plan Proposal        |<ul><li> PPP presentation </li>  <li>  Sprints </li>  <li> Expected product   </li></ul>|     |
+|  |     |               **Start for Individual Team Projects**   |                     |
+| Week 5                         | *Sprint 1*                   |                                           |
 | Week 5.5                       | Mid-week  SCRUM              | 15-min  scrum with each team .                               |
 | Week 6                         | *Sprint 1 Follow up*         |                                                              |
 | Week 6.5                       | Mid-week  SCRUM              | 15-min  scrum with each team.                                |
-| Week 7                         | *Sprint 1 ends*              | MVP Sprint 1 (increment of  Done product)  Sprint 1 retrospect  Sprint 2 planning |
+| Week 7                         | *Sprint 1 ends*              | <ul><li>MVP Sprint 1 (increment of  Done product)</li><li>Sprint 1 retrospect</li>  <li>Sprint 2 planning </li></ul>|
 | Week 7.5                       | Mid-week  SCRUM              | 15-min  scrum with each team.                                |
 | Week 8                         | *Sprint 2*                   |                                                              |
 | Week 8.5                       | Mid-week  SCRUM              | 15-min  scrum with each team.                                |
 | Week 9                         | *Sprint 2 Follow up*         |                                                              |
 | Week 9.5                       | Mid-week  SCRUM              | 15-min  scrum with each team.                                |
-| Week 10 (Milestone 2)          | *Sprint 2 ends*              | MVP Sprint 2 (increment of  Done product)  Sprint 2 retrospect  Final Sprint planning |
+| Week 10 (Milestone 2)          | *Sprint 2 ends*              | <ul><li>MVP Sprint 2 (increment of  Done product)</li><li>Sprint 2 retrospect</li>  <li> Final Sprint planning </li></ul> |
 | Week 10.5                      | Mid-week  SCRUM              | 15-min  scrum with each team .                               |
-| Week 11                        | *Final Spring Follow up*     |                                                              |
+| Week 11                        | *Final Spring*     |                                                              |
 | Week 11.5                      | Mid-week  SCRUM              | 15-min  scrum with each team                                 |
-| Week 12                        | *Final Sprint ends*          | ***Product release  and Presentation\***                     |
+| Week 12                        | *Final Sprint ends*          | <ul><li> **Product release  and Presentation** </li></ul>                  |
 | Week 12.5                      | Mid-week  SCRUM              | 15-min  scrum with each team                                 |
-| Week 13                        | Cross Team Security  Test    | Teams will produce a test  plan for another team product  ·    Test architecture  ·    Description of test plan |
+| Week 13                        | Cross Team Security  Test    | <ul><li> Teams will produce a test  plan for another team product</li> <li>    Test architecture </li> <li>    Description of test plan </li></ul>  |
 | Week 14                        | Security Test results        | **Security test Results Presentation**                       |
 
  
