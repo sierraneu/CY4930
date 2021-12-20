@@ -37,9 +37,6 @@ A student who successfully completes this course should demonstrate the followin
 
 ### **Class Schedule / Topical Outline**
 
- Not Shaded rows represent meetings with the Instructor
-
- Shaded rows present half-week Team Meetings 
 
 | Week Number | Content | Details | 
 | ------------------------------ | ---------------------------- | ------------------------------------------------------- |
@@ -65,18 +62,7 @@ A student who successfully completes this course should demonstrate the followin
 | Week 12                        | *Final Sprint ends*          | <ul><li> **Product release  and Presentation** </li></ul>                  |
 | Week 12.5                      | Mid-week  SCRUM              | 15-min  scrum with each team                                 |
 | Week 13                        | Cross Team Security  Test    | <ul><li> Teams will produce a test  plan for another team product</li> <li>    Test architecture </li> <li>    Description of test plan </li></ul>  |
-| Week 14                        | Security Test results        | **Security test Results Presentation**                       |
-
- 
-
-
-
- 
-
- 
-
- 
-
+| Week 14                        | Security Test results        | **Security test Results Presentation**                      |
  
 
 **Grading/Evaluation Standards**
