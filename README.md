@@ -94,13 +94,14 @@ A student who successfully completes this course should demonstrate the followin
 **Grading/Evaluation Standards**
 
 | Objective| Weight| 
+| ------ | --------|
 | Agile methodology Open test (>85%)  |           5% |
 | Class/Meetings attendance and participation  |     5% |
 | Incremental Sprints     |                   40% |
-| (30% team and 10% individual) | |
-| + Product Release   |                        30%. |
-| Capstone Event Participation / Presentation    |   20% | 
-| + 10% team and 10% individual |  |
+| (30% team and 10% individual) |              |
+| + Product Release   |                        30% |
+| Capstone Event Presentation    |   20% | 
+| + 10% team and 10% individual |    |
 
 
 
