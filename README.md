@@ -47,7 +47,7 @@ A student who successfully completes this course should demonstrate the followin
 
 | Week 1                         | Complete SCRUM  Training     | [Reading:](https://www.scrum.org/resources/scrum-guide) Students need  to pass (>85%) an [Agile Methodology Open Test](https://www.scrum.org/open-assessments/scrum-open) |
 | ------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| Week 2                         | Project  Management Meeting. | Managerial  aspects of the project.   ·    Team member roles  ·    Tentative planning for Sprint 1.  ·    Trello Project set up |
+| Week 2                         | Project  Management Meeting. | <ul><li>Managerial  aspects of the project.  </li><li>Team member roles </li>li>Tentative planning for Sprint 1.</li><li>Trello Project set up</li></ul>  |
 | Week 3                         | Threat Model  Design         | Threat Model  Analysis  ·    Threat Modeling Tool (STRIDE)  ·    Attack Trees  ·    Cyber Kill Chain |
 | Week 4                         | Project Plan Proposal        | PPP presentation  ·    Sprints  ·    Expected product        |
 |  |                              |                               Individual Team Projects Start                        |
