@@ -2,21 +2,12 @@
 
 ## Cybersecurity Capstone
 
-**Course Number**:     CY4930
+### Course Number**:     CY4930
+### Total Credit Hours**:   4
 
-**Total Credit Hours**:   4
 
- 
 
- 
-
- 
-
- 
-
-**Course Description**
-
- 
+### **Course Description**
 
 Provides the culmination of the learned principles and methodologies for identifying and addressing Cybersecurity issues in organizations. Students bring their individual skills and abilities to create a solution to a real-world cybersecurity problem/challenge. Students will work in small groups to identify and scope the information security problem/challenge, create a project plan to develop a solution to include the development and identification of the data necessary to properly solve the problem/challenge, develop a final report (whose intended audience are senior business executives) and participate in the MSCY Capstone Event to present the results they have obtained. 
 
@@ -26,7 +17,7 @@ Further the students will be required to manage and develop the project using so
 
  
 
-**Course Objectives**
+### **Course Objectives**
 
  
 
@@ -46,7 +37,7 @@ A student who successfully completes this course should demonstrate the followin
 
 
 
-**Class Schedule / Topical Outline**
+### **Class Schedule / Topical Outline**
 
  Not Shaded rows represent meetings with the Instructor
 
@@ -54,7 +45,8 @@ A student who successfully completes this course should demonstrate the followin
 
  
 
-| Week 1                         | Complete SCRUM  Training     | + Reading: https://www.scrum.org/resources/scrum-guide  + Students need  to pass (>85%) an Agile Methodology Open Test  `https://www.scrum.org/open-assessments/scrum-open    ` |
+| Week 1                         | Complete SCRUM  Training     | [Reading:](https://www.scrum.org/resources/scrum-guide)
+ Students need  to pass (>85%) an [Agile Methodology Open Test](https://www.scrum.org/open-assessments/scrum-open) |
 | ------------------------------ | ---------------------------- | ------------------------------------------------------------ |
 | Week 2                         | Project  Management Meeting. | Managerial  aspects of the project.   ·    Team member roles  ·    Tentative planning for Sprint 1.  ·    Trello Project set up |
 | Week 3                         | Threat Model  Design         | Threat Model  Analysis  ·    Threat Modeling Tool (STRIDE)  ·    Attack Trees  ·    Cyber Kill Chain |
