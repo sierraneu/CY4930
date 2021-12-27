@@ -73,8 +73,8 @@ A student who successfully completes this course should demonstrate the followin
 | Class/Meetings attendance and participation  |     20% |
 | Project completion success     |                   40% |
 | + (30% team and 10% individual) |              |
-| Cross team Security TestEvaluation   |          25% |
-| + (15% team and 10% individual |    |
+| Cross team vulnerability analysis   |          25% |
+| + (15% team and 10% individual) |    |
 | Final project completion document | 5%|
 | Final security Test Evaluation document | 5% |
 
