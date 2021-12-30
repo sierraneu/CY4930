@@ -10,7 +10,7 @@
 
 
 
-# Scenario Honey. Automatic Deployment of HoneyPots
+# Scenario "Abeja". Automatic Deployment of HoneyPots
 #### (it does not need to deploy additional security tools.) 
 
 In this scenario you will need to deploy a honeynet architecture into a cloud provider. Deployment need to be automatized (recommend to use [Terraform](https://www.terraform.io/) although [Cloud Formation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html) is also acceptable), so the result of the project is the code needed to deploy the honeynet architecture, and also the code to seamlessly delete/remove all architecture elements.
@@ -35,7 +35,7 @@ It is important that aggregated logs can be explored using a GUI tool (i.e.: sys
 
 
 
-# Scenario Homas: Hospital application security
+# Scenario "Homas": Hospital application security
 This scenario is focused on a hospital information system, and the general requirements that this kind of systems have. The following paper describes the requirements for Hospital Information Systems (HIS) architecture [link](https://www.scitepress.org/Papers/2012/38850/38850.pdf).
 
 For this project you just need to implement one application which takes  part of this architecture.
@@ -51,15 +51,22 @@ You can use simple well-known technologies and tools to implement that applicati
 
 
 
-## Cloud. 
-- Deploy a two-factor authentication with google authenticator
-- Setting up OAuth in Github
-- Splunk collector
 
 
-## Scenario BanKo. Performance analysis of Botan cryptographic library in a PostQuatnum configuration.
 
-- [A Data Encryption Solution for Mobile Health Apps in Cooperation Environments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636327/)
+## Scenario "BanKo". Performance analysis of Botan cryptographic library in a PostQuatnum World. 
+
+[Botan](https://github.com/randombit/botan) is a modern cryptographic library in C++ with an included python binding, which allows to use it from python programs.
+> Botan's goal is to be the best option for cryptography in C++ by offering the tools necessary to implement a range of practical systems, such as TLS protocol, X.509 certificates, modern AEAD ciphers, PKCS#11 and TPM hardware support, password hashing, and post quantum crypto schemes.
+
+Among other advantages, Botan includes *Post-Quantum* cryptographic algorithms 
+
+[Exploring Challenges Associated with Adopting and
+Using Post-Quantum Cryptographic Algorithms](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04282021.pdf)
+
+[Performance analisys Paper](https://arxiv.org/pdf/2010.06139.pdf)
+
+- [A Data Encryption Solution for Mobile Health Apps in Cooperation Environments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636327/) :tada:
 
 
 # Scenario 1. Audit logs collector
@@ -68,6 +75,7 @@ Deploy a Honey Net based on different systems, mostly IoT.
 - Docker containers
 - Low and high interaction systems.
 
-
-
-Red tea
+## Cloud. 
+- Deploy a two-factor authentication with google authenticator
+- Setting up OAuth in Github
+- Splunk collector
