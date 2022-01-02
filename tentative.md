@@ -61,6 +61,10 @@ You can use simple well-known technologies and tools to implement that applicati
 
 Among other advantages, Botan includes *Post-Quantum* cryptographic algorithms 
 
++ Post-quantum signature scheme XMSS
+
++ Post-quantum key agreement schemes McEliece and NewHope
+
 [Exploring Challenges Associated with Adopting and
 Using Post-Quantum Cryptographic Algorithms](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04282021.pdf)
 
