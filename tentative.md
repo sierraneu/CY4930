@@ -48,7 +48,7 @@ You can use simple well-known technologies and tools to implement that applicati
 
 ![Simple implementation of the Application](figures/mongonodejs.png)
 
-
+- [A Data Encryption Solution for Mobile Health Apps in Cooperation Environments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636327/)
 
 
 
@@ -70,7 +70,7 @@ Using Post-Quantum Cryptographic Algorithms](https://nvlpubs.nist.gov/nistpubs/C
 
 [Performance analisys Paper](https://arxiv.org/pdf/2010.06139.pdf)
 
-- [A Data Encryption Solution for Mobile Health Apps in Cooperation Environments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636327/) :tada:
+
 
 
 # Scenario 1. Audit logs collector
