@@ -65,6 +65,9 @@ Among other advantages, Botan includes *Post-Quantum* cryptographic algorithms
 
 + Post-quantum key agreement schemes McEliece and NewHope
 
++ performance of symetric encryption with post-quantum key length.
++ Assymetric criptoraphy (size, performance, ... problems)
+
 [Exploring Challenges Associated with Adopting and
 Using Post-Quantum Cryptographic Algorithms](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04282021.pdf)
 
