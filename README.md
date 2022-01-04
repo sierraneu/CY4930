@@ -4,6 +4,10 @@
 
 #### Course Number:     CY4930
 #### Total Credit Hours:   4
+##### Date Range : Jan 18, 2022 - Apr 27, 2022
+##### Schedule : **Tuesdays 1:00 pm - 4:15 pm**
+##### Classroom : Forsyth Building 236
+
 
 
 
@@ -27,7 +31,7 @@ A student who successfully completes this course should demonstrate the followin
 
 \-    An understanding of Agile methodology
 
-\-    An ability to evaluate the cybersecurity project needs and a program to meet those needs.
+\-    An ability to evaluate the cybersecurity project needs and  program to meet those needs.
 
 \-    An understanding of how to create and manage a cybersecurity project from inception to management approval and security evaluation.
 
@@ -43,7 +47,7 @@ A student who successfully completes this course should demonstrate the followin
 | Week 1                         | Complete SCRUM  Training     | <ul> <li>[Reading: https://www.scrum.org/resources/scrum-guide](https://www.scrum.org/resources/scrum-guide)</li> <li> Students need  to pass (>85%) an [Agile Methodology Open Test](https://www.scrum.org/open-assessments/scrum-open)</li></ul> |
 | Week 2                         | Project  Management Meeting. | <ul><li>Managerial  aspects of the project </li> <li>Team member roles </li> <li>Tentative planning for Sprint 1.</li> <li>Trello Project set up</li></ul>  |
 | Week 3                         | Threat Model  Design         | <ul><li>Threat Model  Analysis</li> <li> Threat Modeling Tool (STRIDE) </li> <li> Attack Trees </li> <li>  Cyber Kill Chain </li></ul>|
-| Week 4                         | Project Plan Proposal        |<ul><li> PPP presentation </li>  <li>  Sprints </li>  <li> Expected product   </li></ul>|     |
+| Week 4  | Project Plan Proposals Due Date    |Each team must prepare **3** project plan proposals among the scenarios available <ul><li> PPP presentation </li>  <li>  Sprints </li>  <li> Expected product   </li></ul>|     |
 |  |     |               **Start for Individual Team Projects**   |                     |
 | Week 5                         | *Sprint 1*                   |                                           |
 | Week 5.5                       | Mid-week  SCRUM              | 15-min  scrum with each team .                               |
