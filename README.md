@@ -29,13 +29,10 @@ A student who successfully completes this course should demonstrate the followin
 
  
 
-\-    An understanding of Agile methodology
-
-\-    An ability to evaluate the cybersecurity project needs and  program to meet those needs.
-
-\-    An understanding of how to create and manage a cybersecurity project from inception to management approval and security evaluation.
-
-\-    An understanding of the principles of effective executive communications.
++ An understanding of Agile methodology
++ An ability to evaluate the cybersecurity project needs and  program to meet those needs.
++ An understanding of how to create and manage a cybersecurity project from inception to management approval and security evaluation.
++ An understanding of the principles of effective executive communications.
 
 
 
@@ -44,10 +41,10 @@ A student who successfully completes this course should demonstrate the followin
 
 | Week Number | Content | Details | 
 | ------------------------------ | ---------------------------- | ------------------------------------------------------- |
-| Week 1                         | Complete SCRUM  Training     | <ul> <li>[Reading: https://www.scrum.org/resources/scrum-guide](https://www.scrum.org/resources/scrum-guide)</li> <li> Students need  to pass (>85%) an [Agile Methodology Open Test](https://www.scrum.org/open-assessments/scrum-open)</li></ul> |
-| Week 2                         | Project  Management Meeting. | <ul><li>Managerial  aspects of the project </li> <li>Team member roles </li> <li>Tentative planning for Sprint 1.</li> <li>Trello Project set up</li></ul>  |
-| Week 3                         | Threat Model  Design         | <ul><li>Threat Model  Analysis</li> <li> Threat Modeling Tool (STRIDE) </li> <li> Attack Trees </li> <li>  Cyber Kill Chain </li></ul>|
-| Week 4  | Project Plan Proposals Due Date    |Each team must prepare **3** project plan proposals among the scenarios available <ul><li> PPP presentation </li>  <li>  Sprints </li>  <li> Expected product   </li></ul>|     |
+| Week 1                         | Complete SCRUM  Training     | <ul> <li> In order to set up your 4-members Capstone Team, complete form with interest,skills, and background [CY4930 Form](https://neu.co1.qualtrics.com/jfe/form/SV_bmGV6qPYIPDW4Ae) </li> <li>[Reading: https://www.scrum.org/resources/scrum-guide](https://www.scrum.org/resources/scrum-guide)</li> <li> Students need  to pass (>85%) an [Agile Methodology Open Test](https://www.scrum.org/open-assessments/scrum-open)</li></ul> |
+| Week 2                         | Project  Management Meeting. | <ul><li> Submit your Capstone Team members </li> <ul><li> Each team must prepare **3** project plan proposals among the scenarios available </li> </ul> <li>Managerial  aspects of the project </li> <li>Team member roles </li>  <li>Trello Project set up</li> </ul>  |
+| Week 3                         | Threat Model  Design         | <ul> <li>Threat Model  Analysis</li> <li> Threat Modeling Tool (STRIDE) </li> <li> Attack Trees </li> <li>  Cyber Kill Chain </li></ul>|
+| Week 4  | Project Plan Proposals Due Date    |Each team submits their **3** project plan proposals <ul><li> PPP presentation </li>  <li>  Sprints </li>  <li> Expected product   </li></ul>|     |
 |  |     |               **Start for Individual Team Projects**   |                     |
 | Week 5                         | *Sprint 1*                   |                                           |
 | Week 5.5                       | Mid-week  SCRUM              | 15-min  scrum with each team .                               |

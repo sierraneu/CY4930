@@ -80,7 +80,7 @@ Finally, and only for the postquantum algoritms use you need to perform and stat
 
 
 
-# 4. Scenario Oceano: Security information monitoring for a fleet of heterogeneus machines and containers.
+# 4. Scenario Oceano: Security information monitoring for a fleet of heterogeneous machines and containers.
 
 In this project, you need to build, deploy and test robust, scalable and customizable Endpoint Monitoring System for a sotfware Corporation. This system can be used to monitor the consistency, security and compliance posture of all the endpoints throughout the organization.
 
