@@ -4,7 +4,17 @@ In this scenario you will need to deploy a web service that checks files for vir
 
 ![](https://www.plantuml.com/plantuml/png/XOuz3e9048NxESMKKa32hXK5mSOZQ66CGHmCoJAO_Rc_EuKinGRBUU-RbwzplhS-p0PkLthYsIxiI-BN7Nk7erpnW66PFmiJUpnT7iJlYQdEXIeNQe0cEB8DbcMxRcA3Xxh0SJ84QrPLBGegvJ6MmHXqGyzeoGNZ7IHKjfACFAYqba7KVqHl4O3DkdXjnNNnCuhVTIBrFgaJgVP91G1TBC9ilW00)
 
-This scenario architecture is intended to be deployed in the cloud using [kubernetes](https://kubernetes.io). This will ensure that the service is available ubiquitously and also that highly available.    
+This scenario architecture is intended to be deployed in the cloud using [kubernetes](https://kubernetes.io). This will ensure that the service is available ubiquitously and also that highly available. 
+
+You need to  well-known security countermeasures to protect that application in a virtual environment, but prioritize the use of containers so it can be easily deployed in almost any system.
+
++ FIREWALLs
++ AUDIT & LOGS 
++ COMPLIANCE 
++ MALWARE Detection (YARA, ...)
++ Public Key Infrastructure (PKI)
++ You can propose one different technology/tool but it needs to be approved by the instructor
+
 
 
 # Scenario "Homas": Hospital application security
@@ -16,28 +26,27 @@ For this project you  need to implement one application which takes  part of a h
 
 [^1]: https://www.reaction-project.eu/articles.php?article_id=3
 
-You can use  well-known technologies and tools to implement that application in a virtual environment, but prioritize the use of containers so it can be easily deployed in almost any system.
+You can use  well-known technologies and tools to implement that application in a virtual environment, but prioritize the use of kubernetes so it can be easily deployed in the cloud.
 
 ![Simple implementation of the Application](figures/mongonodejs.png)
 
 - [A Data Encryption Solution for Mobile Health Apps in Cooperation Environments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636327/)
 
-1. SIEM (SPLUNK, ...)
-2. AUDIT & LOGS (OSQUERY, ...)
-3. COMPLIANCE (SCAP, LYNIS, ...)
-4. HIDS (OSSEC)
-5. MALWARE Detection (YARA, ...)
-6. Public Key Infrastructure (PKI)
-7. You can propose one different technology/tool but it needs to be approved by the instructor
++ SIEM (SPLUNK, ...)
++ AUDIT & LOGS (OSQUERY, ...)
++ COMPLIANCE (SCAP, LYNIS, ...)
++ HIDS (OSSEC)
++ Public Key Infrastructure (PKI)
++ You can propose one different technology/tool but it needs to be approved by the instructor
 
 Once your application is deployed you need to provide the proper security countermeasures so the HIS security requirements are satisfied. Use at least any 4 of the following protection tools/technologies
 
 
-# Scenario "BanKo". Performance analysis of Botan cryptographic library in a PostQuatnum World. 
+# Scenario "BanKo". Performance analysis of cryptographic library in a PostQuatnum World. 
 
 [Open Quantum Safe](https://github.com/open-quantum-safe) is a modern cryptographic library in C with an included python binding, which allows to use it from python programs.`OQS` is C library for prototyping and experimenting with quantum-resistant cryptography.
 
-Among other advantages, Botan includes *Post-Quantum* cryptographic algorithms:
+Among other advantages, OQS includes *Post-Quantum* cryptographic algorithms:
 + Digital signature scheme *XMSS*
 + Key  agreement schemes *McEliece* and *NewHope*
 
