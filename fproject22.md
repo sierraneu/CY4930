@@ -1,4 +1,4 @@
-# 1. Scenario "revisor". Multi-antivirus file Checker
+# Scenario "revisor". Multi-antivirus file Checker
 
 In this scenario you will need to deploy a web service that checks files for viruses and malware. In order to verify if the file contains viruses or is clean, the system should use, at least, 3 antivirus engines. Your service should receive a file through a web front end and then send it to each of the antivirus engines, collecte the answers from all of them and present a final report. 
 
@@ -7,33 +7,7 @@ In this scenario you will need to deploy a web service that checks files for vir
 This scenario architecture is intended to be deployed in the cloud using [kubernetes](https://kubernetes.io). This will ensure that the service is available ubiquitously and also that highly available.    
 
 
-
-# 2. Scenario "Abeja". Automatic Deployment of HoneyPots
-#### (it does not need to deploy additional security tools.) 
-
-In this scenario you will need to deploy a Honey Pots architecture into a cloud provider. Deployment need to be automatized (use of [Terraform](https://www.terraform.io/) is highly recommended, although [Cloud Formation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html) is also acceptable. The result of the project is the code needed to deploy the honeynet architecture, and also the code to seamlessly delete/remove all architecture elements.
-The **honeynet** will be based on both, low and high interactions honeypots.  
-
-**<u>High Interaction Honeypots</u>**   
-For the high interaction honeypots, actual systems and applications can be deployed because they will provide full interaction with clients (without any sensitive information provided).  This is the case of:
-- Content Management System (CMS) such as Joomla or WordPress.
-- Database system such as Mysql or SQL server.
-- FTP server such as Filezilla or vsftpd.
-
-**<u>Low Interaction Honeypots</u>**   
-In this case, low interaction honeypots will not provide full interaction but an emulation of the actual service. For that reason, these honeypots could be identified by attackers, who look carefully to their responses. This is the case of:
-- [T-pot](https://github.security.telekom.com/2020/08/honeypot-tpot-20.06-released.html)
-- [Containerized Deception](https://appfleet.com/blog/compromised-container-detection-with-honeypot-containers/)
-
-Besides, the deployment of the **honeynet**, it is needed to forward all logs generated into a centralized log collector. To implement this log forwarding different solutions can be used:
-- rsyslog
-- Log aggregation (i.e.: Firebeat - ElasticSearch)
-
-It is important that aggregated logs can be explored using a GUI tool (i.e.: syslog-ng, Kibana, SPLUNK, )
-
-
-
-# 3. Scenario "Homas": Hospital application security
+# Scenario "Homas": Hospital application security
 This scenario is focused on a hospital information system, and it needs to fulfil the general requirements that this kind of systems have. The following paper describes the requirements for Hospital Information Systems (HIS) architecture [link](https://www.scitepress.org/Papers/2012/38850/38850.pdf).
 
 For this project you  need to implement one application which takes  part of a hospital information system. This is teh case of an Implantable Medical Device (IMD) to track patients' insulin levels.
@@ -59,7 +33,7 @@ You can use  well-known technologies and tools to implement that application in 
 Once your application is deployed you need to provide the proper security countermeasures so the HIS security requirements are satisfied. Use at least any 4 of the following protection tools/technologies
 
 
-# 4. Scenario "BanKo". Performance analysis of Botan cryptographic library in a PostQuatnum World. 
+# Scenario "BanKo". Performance analysis of Botan cryptographic library in a PostQuatnum World. 
 
 [Open Quantum Safe](https://github.com/open-quantum-safe) is a modern cryptographic library in C with an included python binding, which allows to use it from python programs.`OQS` is C library for prototyping and experimenting with quantum-resistant cryptography.
 
@@ -85,7 +59,7 @@ Finally, and only for the postquantum algoritms use you need to perform and stat
 
 
 
-# 5. Scenario Oceano: Security information monitoring for a fleet of heterogeneous machines and containers.
+# Scenario Oceano: Security information monitoring for a fleet of heterogeneous machines and containers.
 
 In this project, you need to build, deploy and test robust, scalable and customizable Endpoint Monitoring System for a sotfware Corporation. This system can be used to monitor the consistency, security and compliance posture of all the endpoints throughout the organization.
 
