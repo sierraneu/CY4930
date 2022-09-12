@@ -68,7 +68,7 @@ Finally, and only for the postquantum algoritms use you need to perform and stat
 
 
 
-# Scenario JUEGO: Cyber competition deployment with different CTF and challenges.
+# Scenario "JUEGO": Cyber competition deployment with different CTF and challenges.
 
 In this project, you need to build a cyber-competition framework that deploys a CTF and the chanlleges associated. You are required to use the most widely user CTF framework [CTFd](https://github.com/CTFd/CTFd) and then provide also challenges to be completed covering all the following areas. 
 + Forensics
