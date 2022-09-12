@@ -78,5 +78,15 @@ In this project, you need to build a cyber-competition framework that deploys a 
 + OS security
 + ...
 
-All challenges need to managed through CTFd and need to be deployed as code in the cloud. 
+All challenges need to managed through CTFd and need to be deployed as code in the cloud. Preferable technologies to use are:
+
++ kubernetes/docker
++ ansible
++ terraform
+
+Also here you have an initial list of resources:
++ https://docs.ctfd.io
++ https://medium.com/csictf/self-hosting-a-ctf-platform-ctfd-90f3f1611587
++ https://github.com/csivitu/ctf-challenges
++ 
 
