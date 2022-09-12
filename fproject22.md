@@ -68,19 +68,15 @@ Finally, and only for the postquantum algoritms use you need to perform and stat
 
 
 
-# Scenario Oceano: Security information monitoring for a fleet of heterogeneous machines and containers.
+# Scenario JUEGO: Cyber competition deployment with different CTF and challenges.
 
-In this project, you need to build, deploy and test robust, scalable and customizable Endpoint Monitoring System for a sotfware Corporation. This system can be used to monitor the consistency, security and compliance posture of all the endpoints throughout the organization.
+In this project, you need to build a cyber-competition framework that deploys a CTF and the chanlleges associated. You are required to use the most widely user CTF framework [CTFd](https://github.com/CTFd/CTFd) and then provide also challenges to be completed covering all the following areas. 
++ Forensics
++ Cryptography
++ Web security
++ Database security
++ OS security
++ ...
 
-First part of your work will be to simulate the endpoint systems (10) of our software corporation. You can use virtual machines for systems like windows or mac, but it is recommended that you  use lightweight containers whenever you have a chance. The following diagram presents a simplification of the company's network architecture.
+All challenges need to managed through CTFd and need to be deployed as code in the cloud. 
 
-![img.png](figures/img.png)
-
-Remember that although your systems no need to store any information, they need to be functional and reachable by the network (use the address scheme that you consider appropiate). 
-
-Once you have the system deployed you need to install:
-+ OSQuery, which turns live Endpoints into a query-able database that is capable of rendering all the necessary information to audit the endpoints to analyze their consistency and vulnerabilities.
-+ [Fleet device manager](https://fleetdm.com/) an open source osquery manager that allows to monitor numerous osqueried systems.
-+ [ElasticSearch and Kibana](https://blog.fleetdm.com/build-an-osquery-performance-dashboard-1b1762ee3880) to create a performance osquery dashboard.
-
-Once the whole system is deployed you should exemplify two cybersecurity incidents that can be identified through your endpoint monitoring system.  
