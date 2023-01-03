@@ -1,5 +1,5 @@
-# MITRE Adversary Emulation Plan
-### Project Description
+# Scenario MITRE Adversary Emulation Plan
+
 This project is intended to apply the MITRE ATT&amp;CK methodology and tools to map a cyber incident and then use the Caldera tool to complete an emulation plan.
 ### Tasks
 1. Understand ATT&amp;CK Framework.
