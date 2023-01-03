@@ -1,4 +1,4 @@
-# Scenario MITRE Adversary Emulation Plan
+# Scenario 1: MITRE Adversary Emulation Plan
 
 This project is intended to apply the MITRE ATT&amp;CK methodology and tools to map a cyber incident and then use the Caldera tool to complete an emulation plan.
 ### Tasks
@@ -11,7 +11,7 @@ This project is intended to apply the MITRE ATT&amp;CK methodology and tools to 
 
 
 
-# Scenario OpenCTI
+# Scenario 2: OpenCTI
 
 OpenCTI is an open source cyber threat intelligence platform (TIP). It includes a knowledge management database, data visualization, and context for observables and indicators. In this scenario you need to create an IaC infrastructure able to automatically deploy an OpenCTI using Terraform. 
 
@@ -22,7 +22,7 @@ Your deployment need to take special care with credentials use, and it mandatory
 
 
 
-# Scenario Multi-antivirus
+# Scenario 3: Multi-antivirus
 
 In this scenario you will need to deploy a web service that checks files for viruses and malware. In order to verify if the file contains viruses or is clean, the system should use, at least, 3 antivirus engines. Your service should receive a file through a web front end and then send it to each of the antivirus engines, collects the answers from all of them and present a final report. 
 
@@ -42,7 +42,7 @@ You need to  well-known security countermeasures to protect that application in 
 
 
 
-# Scenario Performance analysis of PostQuatnum cryptographic library.
+# Scenario 4: Performance analysis of PostQuatnum cryptographic library.
 
 [Open Quantum Safe](https://github.com/open-quantum-safe) is a modern cryptographic library in C with an included python binding, which allows to use it from python programs.`OQS` is C library for prototyping and experimenting with quantum-resistant cryptography.
 
