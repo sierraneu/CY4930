@@ -1,4 +1,28 @@
-# Scenario "revisor". Multi-antivirus file Checker
+# MITRE Adversary Emulation Plan
+### Project Description
+This project is intended to apply the MITRE ATT&amp;CK methodology and tools to map a cyber incident and then use the Caldera tool to complete an emulation plan.
+### Tasks
+1. Understand ATT&amp;CK Framework.
+2. Find the behavior—Think about the adversary’s action in a recent Cybersecurity Event
+3. Research the behavior.
+4. Translate the behavior into a tactic in ATT&amp;CK.
+5. Elaborate an in-depth Threat Report of the incident analized (included a STIX2.1 JSON representation).
+6. Elaborate an Adversary Emulation Plan using CALDERA.
+
+
+
+# Scenario OpenCTI
+
+OpenCTI is an open source cyber threat intelligence platform (TIP). It includes a knowledge management database, data visualization, and context for observables and indicators. In this scenario you need to create an IaC infrastructure able to automatically deploy an OpenCTI using Terraform. 
+
+Your OpenCTI server in the cloud needs to include (at least) 3 connectors, being one of them MITRE ATT&CK. 
+
+Your deployment need to take special care with credentials use, and it mandatory to use a Cloud-based Key managenent for them. 
+
+
+
+
+# Scenario Multi-antivirus
 
 In this scenario you will need to deploy a web service that checks files for viruses and malware. In order to verify if the file contains viruses or is clean, the system should use, at least, 3 antivirus engines. Your service should receive a file through a web front end and then send it to each of the antivirus engines, collects the answers from all of them and present a final report. 
 
@@ -17,32 +41,8 @@ You need to  well-known security countermeasures to protect that application in 
 
 
 
-# Scenario "Homas": Hospital application security
-This scenario is focused on a hospital information system, and it needs to fullfil the general requirements that this kind of systems have. The following paper describes the requirements for Hospital Information Systems (HIS) architecture [link](https://www.scitepress.org/Papers/2012/38850/38850.pdf).
 
-For this project you  need to implement one application which takes  part of a hospital information system. This is the case of an Implantable Medical Device (IMD) to track patients' insulin levels.
-
- > When monitoring  a patient’s correct insulin intake. One workflow consists of reading blood glucose levels and dietary intake at determined intervals. Another workflow will determine recommended bolus dose (fast acting) insulin from these readings and feed it back to the patient. A third workflow will read the actual insulin intake whereas a fourth workflow will compare the two and fuse the information to various stakeholders. Applications are developed and stored in the form of conceptual domain models (ontologies). [^1]
-
-[^1]: https://www.reaction-project.eu/articles.php?article_id=3
-
-You can use  well-known technologies and tools to implement that application in a virtual environment, but prioritize the use of kubernetes so it can be easily deployed in the cloud.
-
-![Simple implementation of the Application](figures/mongonodejs.png)
-
-- [A Data Encryption Solution for Mobile Health Apps in Cooperation Environments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3636327/)
-
-+ SIEM (SPLUNK, ...)
-+ AUDIT & LOGS (OSQUERY, ...)
-+ COMPLIANCE (SCAP, LYNIS, ...)
-+ HIDS (OSSEC)
-+ Public Key Infrastructure (PKI)
-+ You can propose one different technology/tool but it needs to be approved by the instructor
-
-Once your application is deployed you need to provide the proper security countermeasures so the HIS security requirements are satisfied. Use at least any 4 of the following protection tools/technologies
-
-
-# Scenario "BanKo". Performance analysis of cryptographic library in a PostQuatnum World. 
+# Scenario Performance analysis of PostQuatnum cryptographic library.
 
 [Open Quantum Safe](https://github.com/open-quantum-safe) is a modern cryptographic library in C with an included python binding, which allows to use it from python programs.`OQS` is C library for prototyping and experimenting with quantum-resistant cryptography.
 
@@ -67,27 +67,5 @@ Finally, and only for the postquantum algorithms use you need to perform and sta
 
 
 
-
-# Scenario "JUEGO": Cyber competition deployment with different CTF and challenges.
-
-In this project, you need to build a cyber-competition framework that deploys a CTF and the challenges associated. You are required to use the most widely user CTF framework [CTFd](https://github.com/CTFd/CTFd) and then provide also challenges to be completed covering all the following areas. 
-+ Forensics
-+ Cryptography
-+ Web security
-+ Database security
-+ OS security
-+ ...
-
-All challenges need to managed through CTFd and need to be deployed as code in the cloud. Preferable technologies to use are:
-
-+ kubernetes/docker
-+ ansible/puppet
-+ terraform
-
-Also here you have an initial list of resources:
-+ https://docs.ctfd.io
-+ https://medium.com/csictf/self-hosting-a-ctf-platform-ctfd-90f3f1611587
-+ https://github.com/csivitu/ctf-challenges
-+ 
 
 
